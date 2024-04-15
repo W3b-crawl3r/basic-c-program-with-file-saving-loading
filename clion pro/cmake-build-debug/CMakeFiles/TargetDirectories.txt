@@ -1,0 +1,3 @@
+C:/Users/yassine/OneDrive/Bureau/clion pro/cmake-build-debug/CMakeFiles/clion_pro.dir
+C:/Users/yassine/OneDrive/Bureau/clion pro/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yassine/OneDrive/Bureau/clion pro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
